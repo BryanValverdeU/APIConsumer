@@ -1,0 +1,4 @@
+C:\Users\ExtremeTech\Source\Repos\BryanValverdeU\APIConsumer\APIConsumer\bin\Debug\netcoreapp3.1\APIConsumer.exe
+C:\Users\ExtremeTech\Source\Repos\BryanValverdeU\APIConsumer\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.csprojAssemblyReference.cache
+C:\Users\ExtremeTech\Source\Repos\BryanValverdeU\APIConsumer\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.AssemblyInfoInputs.cache
+C:\Users\ExtremeTech\Source\Repos\BryanValverdeU\APIConsumer\APIConsumer\obj\Debug\netcoreapp3.1\APIConsumer.AssemblyInfo.cs

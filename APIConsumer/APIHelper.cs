@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Net;
@@ -18,10 +19,7 @@ namespace ClickAndClick.DataAccess
 		{
 			cookies = new CookieContainer();
 			baseAddress = new Uri(baseUrl);
-			APIHelper.apiName = apiName;
-
-			cookies.Add(baseAddress, new Cookie("UserName", NCR.MyNcr.User.UserName));
-			cookies.Add(baseAddress, new Cookie("ProxyId", NCR.MyNcr.User.Identity.ProxyId));
+			APIHelper.apiName = apiName; 
 		}
 
 		/// <summary>
